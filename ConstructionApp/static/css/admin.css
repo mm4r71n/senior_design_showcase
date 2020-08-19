@@ -1,0 +1,37 @@
+#header {
+
+	height: 50px;
+	background: #e57125;
+	color: #fff;
+	border-bottom: 5px solid #000000;
+
+}
+
+#branding h1{
+
+	color: #fff;
+}
+
+/*Changes text color  */
+a:visited {
+
+	color:#e57125 ;
+}
+
+/*Changes header color  */
+div.breadcrumbs{
+
+	background: #000000;
+}
+
+/*Changes sub categories color  */
+.module h2, .module caption, .inline-group h2{
+
+	background: #e57125
+}
+
+
+.button, input[type=submit], input[type=button], .submit-row input, a.button{
+
+	background: #e57125
+}
